@@ -1,0 +1,26 @@
+.menu {
+    background-color: aqua;
+    padding: 20px;
+}
+
+.biriyani {
+    background-color: red;
+    margin-left: 40px;
+    padding: 10px;
+    outline: 2px solid black;
+}
+
+.panner {
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 60px;
+    outline: 2px solid black;
+}
+
+.img {
+    margin-right: 20px;
+    margin-top: 25px;
+    width: 150px;
+    height: auto;
+}
+
