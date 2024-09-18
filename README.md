@@ -1,3 +1,3 @@
 Hello, Welcome to the webpage
 
-Making this webpage as I am learing Webdev from The odin project
+Making this webpage as I am learning Webdev from The Odin Project
